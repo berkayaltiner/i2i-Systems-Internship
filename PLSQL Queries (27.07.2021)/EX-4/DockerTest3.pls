@@ -1,0 +1,1 @@
+UPDATE HR.emp SET phone_number='5556667788', salary = 18000 WHERE employee_ýd = 250;
