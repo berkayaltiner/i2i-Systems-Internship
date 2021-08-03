@@ -1,0 +1,805 @@
+23:04:51.545 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2248Size of Array = 10000
+23:04:51.596 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.596 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2248
+23:04:51.596 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2248is not prime but doesn't exist in Fibonacci Series.
+23:04:51.596 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2249Size of Array = 10000
+23:04:51.635 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.636 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2249
+23:04:51.636 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2249is not prime but doesn't exist in Fibonacci Series.
+23:04:51.636 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2250Size of Array = 10000
+23:04:51.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2250
+23:04:51.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2250is not prime but doesn't exist in Fibonacci Series.
+23:04:51.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2251Size of Array = 10000
+23:04:51.723 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.724 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2251
+23:04:51.724 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2251is prime but doesn't exist in Fibonacci Series.
+23:04:51.724 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2252Size of Array = 10000
+23:04:51.768 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.778 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2252
+23:04:51.778 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2252is not prime but doesn't exist in Fibonacci Series.
+23:04:51.778 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2253Size of Array = 10000
+23:04:51.827 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.827 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2253
+23:04:51.828 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2253is not prime but doesn't exist in Fibonacci Series.
+23:04:51.828 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2254Size of Array = 10000
+23:04:51.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2254
+23:04:51.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2254is not prime but doesn't exist in Fibonacci Series.
+23:04:51.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2255Size of Array = 10000
+23:04:51.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2255
+23:04:51.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2255is not prime but doesn't exist in Fibonacci Series.
+23:04:51.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2256Size of Array = 10000
+23:04:51.960 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:51.960 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2256
+23:04:51.960 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2256is not prime but doesn't exist in Fibonacci Series.
+23:04:51.960 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2257Size of Array = 10000
+23:04:52.006 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.006 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2257
+23:04:52.006 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2257is not prime but doesn't exist in Fibonacci Series.
+23:04:52.006 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2258Size of Array = 10000
+23:04:52.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2258
+23:04:52.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2258is not prime but doesn't exist in Fibonacci Series.
+23:04:52.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2259Size of Array = 10000
+23:04:52.090 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.090 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2259
+23:04:52.090 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2259is not prime but doesn't exist in Fibonacci Series.
+23:04:52.090 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2260Size of Array = 10000
+23:04:52.131 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.131 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2260
+23:04:52.131 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2260is not prime but doesn't exist in Fibonacci Series.
+23:04:52.131 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2261Size of Array = 10000
+23:04:52.174 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.174 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2261
+23:04:52.174 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2261is not prime but doesn't exist in Fibonacci Series.
+23:04:52.174 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2262Size of Array = 10000
+23:04:52.218 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.218 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2262
+23:04:52.218 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2262is not prime but doesn't exist in Fibonacci Series.
+23:04:52.218 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2263Size of Array = 10000
+23:04:52.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2263
+23:04:52.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2263is not prime but doesn't exist in Fibonacci Series.
+23:04:52.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2264Size of Array = 10000
+23:04:52.300 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.300 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2264
+23:04:52.300 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2264is not prime but doesn't exist in Fibonacci Series.
+23:04:52.300 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2265Size of Array = 10000
+23:04:52.341 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.341 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2265
+23:04:52.341 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2265is not prime but doesn't exist in Fibonacci Series.
+23:04:52.341 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2266Size of Array = 10000
+23:04:52.384 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.384 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2266
+23:04:52.384 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2266is not prime but doesn't exist in Fibonacci Series.
+23:04:52.384 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2267Size of Array = 10000
+23:04:52.431 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.431 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2267
+23:04:52.431 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2267is prime but doesn't exist in Fibonacci Series.
+23:04:52.431 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2268Size of Array = 10000
+23:04:52.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2268
+23:04:52.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2268is not prime but doesn't exist in Fibonacci Series.
+23:04:52.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2269Size of Array = 10000
+23:04:52.520 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.520 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2269
+23:04:52.520 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2269is prime but doesn't exist in Fibonacci Series.
+23:04:52.520 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2270Size of Array = 10000
+23:04:52.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2270
+23:04:52.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2270is not prime but doesn't exist in Fibonacci Series.
+23:04:52.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2271Size of Array = 10000
+23:04:52.612 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.612 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2271
+23:04:52.612 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2271is not prime but doesn't exist in Fibonacci Series.
+23:04:52.612 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2272Size of Array = 10000
+23:04:52.655 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.655 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2272
+23:04:52.655 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2272is not prime but doesn't exist in Fibonacci Series.
+23:04:52.655 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2273Size of Array = 10000
+23:04:52.700 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.700 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2273
+23:04:52.700 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2273is prime but doesn't exist in Fibonacci Series.
+23:04:52.700 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2274Size of Array = 10000
+23:04:52.743 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.743 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2274
+23:04:52.743 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2274is not prime but doesn't exist in Fibonacci Series.
+23:04:52.743 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2275Size of Array = 10000
+23:04:52.785 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.785 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2275
+23:04:52.785 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2275is not prime but doesn't exist in Fibonacci Series.
+23:04:52.785 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2276Size of Array = 10000
+23:04:52.827 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.827 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2276
+23:04:52.827 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2276is not prime but doesn't exist in Fibonacci Series.
+23:04:52.827 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2277Size of Array = 10000
+23:04:52.871 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.871 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2277
+23:04:52.871 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2277is not prime but doesn't exist in Fibonacci Series.
+23:04:52.871 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2278Size of Array = 10000
+23:04:52.912 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.912 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2278
+23:04:52.912 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2278is not prime but doesn't exist in Fibonacci Series.
+23:04:52.912 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2279Size of Array = 10000
+23:04:52.956 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:52.956 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2279
+23:04:52.956 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2279is not prime but doesn't exist in Fibonacci Series.
+23:04:52.956 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2280Size of Array = 10000
+23:04:53.000 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.000 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2280
+23:04:53.000 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2280is not prime but doesn't exist in Fibonacci Series.
+23:04:53.000 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2281Size of Array = 10000
+23:04:53.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2281
+23:04:53.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2281is prime but doesn't exist in Fibonacci Series.
+23:04:53.048 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2282Size of Array = 10000
+23:04:53.095 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.095 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2282
+23:04:53.095 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2282is not prime but doesn't exist in Fibonacci Series.
+23:04:53.095 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2283Size of Array = 10000
+23:04:53.141 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.141 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2283
+23:04:53.141 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2283is not prime but doesn't exist in Fibonacci Series.
+23:04:53.141 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2284Size of Array = 10000
+23:04:53.183 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.184 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2284
+23:04:53.184 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2284is not prime but doesn't exist in Fibonacci Series.
+23:04:53.184 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2285Size of Array = 10000
+23:04:53.226 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.226 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2285
+23:04:53.226 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2285is not prime but doesn't exist in Fibonacci Series.
+23:04:53.226 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2286Size of Array = 10000
+23:04:53.275 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.275 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2286
+23:04:53.275 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2286is not prime but doesn't exist in Fibonacci Series.
+23:04:53.275 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2287Size of Array = 10000
+23:04:53.318 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.318 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2287
+23:04:53.318 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2287is prime but doesn't exist in Fibonacci Series.
+23:04:53.318 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2288Size of Array = 10000
+23:04:53.365 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.365 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2288
+23:04:53.365 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2288is not prime but doesn't exist in Fibonacci Series.
+23:04:53.365 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2289Size of Array = 10000
+23:04:53.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2289
+23:04:53.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2289is not prime but doesn't exist in Fibonacci Series.
+23:04:53.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2290Size of Array = 10000
+23:04:53.448 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.448 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2290
+23:04:53.448 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2290is not prime but doesn't exist in Fibonacci Series.
+23:04:53.448 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2291Size of Array = 10000
+23:04:53.491 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.491 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2291
+23:04:53.491 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2291is not prime but doesn't exist in Fibonacci Series.
+23:04:53.491 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2292Size of Array = 10000
+23:04:53.537 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.537 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2292
+23:04:53.537 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2292is not prime but doesn't exist in Fibonacci Series.
+23:04:53.537 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2293Size of Array = 10000
+23:04:53.585 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.585 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2293
+23:04:53.585 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2293is prime but doesn't exist in Fibonacci Series.
+23:04:53.585 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2294Size of Array = 10000
+23:04:53.627 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.627 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2294
+23:04:53.627 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2294is not prime but doesn't exist in Fibonacci Series.
+23:04:53.627 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2295Size of Array = 10000
+23:04:53.669 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.669 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2295
+23:04:53.669 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2295is not prime but doesn't exist in Fibonacci Series.
+23:04:53.669 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2296Size of Array = 10000
+23:04:53.709 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.709 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2296
+23:04:53.709 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2296is not prime but doesn't exist in Fibonacci Series.
+23:04:53.709 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2297Size of Array = 10000
+23:04:53.750 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.750 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2297
+23:04:53.750 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2297is prime but doesn't exist in Fibonacci Series.
+23:04:53.750 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2298Size of Array = 10000
+23:04:53.791 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.791 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2298
+23:04:53.791 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2298is not prime but doesn't exist in Fibonacci Series.
+23:04:53.791 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2299Size of Array = 10000
+23:04:53.835 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.835 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2299
+23:04:53.835 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2299is not prime but doesn't exist in Fibonacci Series.
+23:04:53.835 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2300Size of Array = 10000
+23:04:53.880 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.880 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2300
+23:04:53.880 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2300is not prime but doesn't exist in Fibonacci Series.
+23:04:53.880 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2301Size of Array = 10000
+23:04:53.934 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.934 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2301
+23:04:53.934 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2301is not prime but doesn't exist in Fibonacci Series.
+23:04:53.934 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2302Size of Array = 10000
+23:04:53.972 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:53.972 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2302
+23:04:53.972 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2302is not prime but doesn't exist in Fibonacci Series.
+23:04:53.972 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2303Size of Array = 10000
+23:04:54.038 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.038 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2303
+23:04:54.038 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2303is not prime but doesn't exist in Fibonacci Series.
+23:04:54.038 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2304Size of Array = 10000
+23:04:54.075 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.075 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2304
+23:04:54.075 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2304is not prime but doesn't exist in Fibonacci Series.
+23:04:54.075 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2305Size of Array = 10000
+23:04:54.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2305
+23:04:54.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2305is not prime but doesn't exist in Fibonacci Series.
+23:04:54.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2306Size of Array = 10000
+23:04:54.209 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.209 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2306
+23:04:54.209 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2306is not prime but doesn't exist in Fibonacci Series.
+23:04:54.209 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2307Size of Array = 10000
+23:04:54.253 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.253 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2307
+23:04:54.253 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2307is not prime but doesn't exist in Fibonacci Series.
+23:04:54.253 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2308Size of Array = 10000
+23:04:54.296 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.296 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2308
+23:04:54.296 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2308is not prime but doesn't exist in Fibonacci Series.
+23:04:54.296 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2309Size of Array = 10000
+23:04:54.340 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.340 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2309
+23:04:54.340 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2309is prime but doesn't exist in Fibonacci Series.
+23:04:54.340 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2310Size of Array = 10000
+23:04:54.382 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.382 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2310
+23:04:54.382 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2310is not prime but doesn't exist in Fibonacci Series.
+23:04:54.382 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2311Size of Array = 10000
+23:04:54.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2311
+23:04:54.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2311is prime but doesn't exist in Fibonacci Series.
+23:04:54.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2312Size of Array = 10000
+23:04:54.474 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2312
+23:04:54.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2312is not prime but doesn't exist in Fibonacci Series.
+23:04:54.476 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2313Size of Array = 10000
+23:04:54.519 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.519 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2313
+23:04:54.519 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2313is not prime but doesn't exist in Fibonacci Series.
+23:04:54.519 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2314Size of Array = 10000
+23:04:54.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2314
+23:04:54.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2314is not prime but doesn't exist in Fibonacci Series.
+23:04:54.565 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2315Size of Array = 10000
+23:04:54.611 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.611 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2315
+23:04:54.611 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2315is not prime but doesn't exist in Fibonacci Series.
+23:04:54.611 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2316Size of Array = 10000
+23:04:54.657 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.657 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2316
+23:04:54.657 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2316is not prime but doesn't exist in Fibonacci Series.
+23:04:54.657 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2317Size of Array = 10000
+23:04:54.706 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.706 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2317
+23:04:54.706 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2317is not prime but doesn't exist in Fibonacci Series.
+23:04:54.706 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2318Size of Array = 10000
+23:04:54.749 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.749 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2318
+23:04:54.749 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2318is not prime but doesn't exist in Fibonacci Series.
+23:04:54.749 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2319Size of Array = 10000
+23:04:54.799 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.799 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2319
+23:04:54.800 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2319is not prime but doesn't exist in Fibonacci Series.
+23:04:54.800 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2320Size of Array = 10000
+23:04:54.847 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.847 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2320
+23:04:54.847 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2320is not prime but doesn't exist in Fibonacci Series.
+23:04:54.847 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2321Size of Array = 10000
+23:04:54.898 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.898 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2321
+23:04:54.898 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2321is not prime but doesn't exist in Fibonacci Series.
+23:04:54.898 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2322Size of Array = 10000
+23:04:54.940 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.940 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2322
+23:04:54.940 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2322is not prime but doesn't exist in Fibonacci Series.
+23:04:54.940 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2323Size of Array = 10000
+23:04:54.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:54.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2323
+23:04:54.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2323is not prime but doesn't exist in Fibonacci Series.
+23:04:54.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2324Size of Array = 10000
+23:04:55.028 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.028 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2324
+23:04:55.028 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2324is not prime but doesn't exist in Fibonacci Series.
+23:04:55.028 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2325Size of Array = 10000
+23:04:55.074 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.074 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2325
+23:04:55.074 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2325is not prime but doesn't exist in Fibonacci Series.
+23:04:55.074 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2326Size of Array = 10000
+23:04:55.117 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.117 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2326
+23:04:55.117 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2326is not prime but doesn't exist in Fibonacci Series.
+23:04:55.117 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2327Size of Array = 10000
+23:04:55.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2327
+23:04:55.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2327is not prime but doesn't exist in Fibonacci Series.
+23:04:55.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2328Size of Array = 10000
+23:04:55.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2328
+23:04:55.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2328is not prime but doesn't exist in Fibonacci Series.
+23:04:55.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2329Size of Array = 10000
+23:04:55.250 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.250 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2329
+23:04:55.250 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2329is not prime but doesn't exist in Fibonacci Series.
+23:04:55.250 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2330Size of Array = 10000
+23:04:55.291 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.291 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2330
+23:04:55.291 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2330is not prime but doesn't exist in Fibonacci Series.
+23:04:55.291 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2331Size of Array = 10000
+23:04:55.335 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.335 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2331
+23:04:55.335 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2331is not prime but doesn't exist in Fibonacci Series.
+23:04:55.335 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2332Size of Array = 10000
+23:04:55.379 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.379 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2332
+23:04:55.379 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2332is not prime but doesn't exist in Fibonacci Series.
+23:04:55.379 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2333Size of Array = 10000
+23:04:55.423 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.423 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2333
+23:04:55.423 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2333is prime but doesn't exist in Fibonacci Series.
+23:04:55.423 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2334Size of Array = 10000
+23:04:55.509 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.509 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2334
+23:04:55.509 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2334is not prime but doesn't exist in Fibonacci Series.
+23:04:55.509 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2335Size of Array = 10000
+23:04:55.551 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.551 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2335
+23:04:55.551 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2335is not prime but doesn't exist in Fibonacci Series.
+23:04:55.551 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2336Size of Array = 10000
+23:04:55.592 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.592 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2336
+23:04:55.593 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2336is not prime but doesn't exist in Fibonacci Series.
+23:04:55.593 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2337Size of Array = 10000
+23:04:55.635 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.635 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2337
+23:04:55.635 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2337is not prime but doesn't exist in Fibonacci Series.
+23:04:55.635 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2338Size of Array = 10000
+23:04:55.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2338
+23:04:55.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2338is not prime but doesn't exist in Fibonacci Series.
+23:04:55.677 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2339Size of Array = 10000
+23:04:55.720 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.720 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2339
+23:04:55.720 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2339is prime but doesn't exist in Fibonacci Series.
+23:04:55.720 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2340Size of Array = 10000
+23:04:55.762 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.762 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2340
+23:04:55.762 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2340is not prime but doesn't exist in Fibonacci Series.
+23:04:55.762 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2341Size of Array = 10000
+23:04:55.807 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.807 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2341
+23:04:55.807 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2341is prime but doesn't exist in Fibonacci Series.
+23:04:55.807 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2342Size of Array = 10000
+23:04:55.853 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.853 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2342
+23:04:55.853 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2342is not prime but doesn't exist in Fibonacci Series.
+23:04:55.853 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2343Size of Array = 10000
+23:04:55.896 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.896 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2343
+23:04:55.896 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2343is not prime but doesn't exist in Fibonacci Series.
+23:04:55.896 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2344Size of Array = 10000
+23:04:55.939 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.939 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2344
+23:04:55.939 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2344is not prime but doesn't exist in Fibonacci Series.
+23:04:55.939 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2345Size of Array = 10000
+23:04:55.982 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:55.982 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2345
+23:04:55.982 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2345is not prime but doesn't exist in Fibonacci Series.
+23:04:55.982 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2346Size of Array = 10000
+23:04:56.030 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.030 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2346
+23:04:56.030 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2346is not prime but doesn't exist in Fibonacci Series.
+23:04:56.030 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2347Size of Array = 10000
+23:04:56.073 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.073 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2347
+23:04:56.073 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2347is prime but doesn't exist in Fibonacci Series.
+23:04:56.073 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2348Size of Array = 10000
+23:04:56.118 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.118 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2348
+23:04:56.118 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2348is not prime but doesn't exist in Fibonacci Series.
+23:04:56.118 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2349Size of Array = 10000
+23:04:56.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2349
+23:04:56.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2349is not prime but doesn't exist in Fibonacci Series.
+23:04:56.165 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2350Size of Array = 10000
+23:04:56.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2350
+23:04:56.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2350is not prime but doesn't exist in Fibonacci Series.
+23:04:56.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2351Size of Array = 10000
+23:04:56.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2351
+23:04:56.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2351is prime but doesn't exist in Fibonacci Series.
+23:04:56.260 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2352Size of Array = 10000
+23:04:56.301 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.301 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2352
+23:04:56.301 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2352is not prime but doesn't exist in Fibonacci Series.
+23:04:56.301 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2353Size of Array = 10000
+23:04:56.343 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.343 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2353
+23:04:56.343 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2353is not prime but doesn't exist in Fibonacci Series.
+23:04:56.343 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2354Size of Array = 10000
+23:04:56.385 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.385 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2354
+23:04:56.385 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2354is not prime but doesn't exist in Fibonacci Series.
+23:04:56.385 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2355Size of Array = 10000
+23:04:56.426 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.426 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2355
+23:04:56.426 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2355is not prime but doesn't exist in Fibonacci Series.
+23:04:56.426 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2356Size of Array = 10000
+23:04:56.471 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.471 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2356
+23:04:56.471 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2356is not prime but doesn't exist in Fibonacci Series.
+23:04:56.471 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2357Size of Array = 10000
+23:04:56.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2357
+23:04:56.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2357is prime but doesn't exist in Fibonacci Series.
+23:04:56.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2358Size of Array = 10000
+23:04:56.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2358
+23:04:56.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2358is not prime but doesn't exist in Fibonacci Series.
+23:04:56.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2359Size of Array = 10000
+23:04:56.599 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.599 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2359
+23:04:56.599 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2359is not prime but doesn't exist in Fibonacci Series.
+23:04:56.599 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2360Size of Array = 10000
+23:04:56.644 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.644 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2360
+23:04:56.644 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2360is not prime but doesn't exist in Fibonacci Series.
+23:04:56.644 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2361Size of Array = 10000
+23:04:56.692 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.692 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2361
+23:04:56.692 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2361is not prime but doesn't exist in Fibonacci Series.
+23:04:56.692 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2362Size of Array = 10000
+23:04:56.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2362
+23:04:56.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2362is not prime but doesn't exist in Fibonacci Series.
+23:04:56.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2363Size of Array = 10000
+23:04:56.777 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.777 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2363
+23:04:56.777 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2363is not prime but doesn't exist in Fibonacci Series.
+23:04:56.777 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2364Size of Array = 10000
+23:04:56.824 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.824 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2364
+23:04:56.824 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2364is not prime but doesn't exist in Fibonacci Series.
+23:04:56.824 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2365Size of Array = 10000
+23:04:56.893 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.893 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2365
+23:04:56.893 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2365is not prime but doesn't exist in Fibonacci Series.
+23:04:56.893 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2366Size of Array = 10000
+23:04:56.931 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.931 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2366
+23:04:56.931 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2366is not prime but doesn't exist in Fibonacci Series.
+23:04:56.931 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2367Size of Array = 10000
+23:04:56.976 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:56.976 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2367
+23:04:56.976 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2367is not prime but doesn't exist in Fibonacci Series.
+23:04:56.976 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2368Size of Array = 10000
+23:04:57.018 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.018 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2368
+23:04:57.018 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2368is not prime but doesn't exist in Fibonacci Series.
+23:04:57.018 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2369Size of Array = 10000
+23:04:57.060 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.060 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2369
+23:04:57.060 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2369is not prime but doesn't exist in Fibonacci Series.
+23:04:57.060 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2370Size of Array = 10000
+23:04:57.103 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.103 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2370
+23:04:57.103 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2370is not prime but doesn't exist in Fibonacci Series.
+23:04:57.103 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2371Size of Array = 10000
+23:04:57.144 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.144 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2371
+23:04:57.144 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2371is prime but doesn't exist in Fibonacci Series.
+23:04:57.144 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2372Size of Array = 10000
+23:04:57.191 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.191 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2372
+23:04:57.191 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2372is not prime but doesn't exist in Fibonacci Series.
+23:04:57.191 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2373Size of Array = 10000
+23:04:57.236 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.236 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2373
+23:04:57.236 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2373is not prime but doesn't exist in Fibonacci Series.
+23:04:57.236 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2374Size of Array = 10000
+23:04:57.277 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.277 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2374
+23:04:57.277 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2374is not prime but doesn't exist in Fibonacci Series.
+23:04:57.277 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2375Size of Array = 10000
+23:04:57.320 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.320 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2375
+23:04:57.320 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2375is not prime but doesn't exist in Fibonacci Series.
+23:04:57.320 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2376Size of Array = 10000
+23:04:57.363 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.363 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2376
+23:04:57.363 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2376is not prime but doesn't exist in Fibonacci Series.
+23:04:57.363 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2377Size of Array = 10000
+23:04:57.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2377
+23:04:57.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2377is prime but doesn't exist in Fibonacci Series.
+23:04:57.405 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2378Size of Array = 10000
+23:04:57.443 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.443 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2378
+23:04:57.443 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2378is not prime but doesn't exist in Fibonacci Series.
+23:04:57.443 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2379Size of Array = 10000
+23:04:57.486 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.486 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2379
+23:04:57.486 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2379is not prime but doesn't exist in Fibonacci Series.
+23:04:57.486 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2380Size of Array = 10000
+23:04:57.528 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.528 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2380
+23:04:57.528 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2380is not prime but doesn't exist in Fibonacci Series.
+23:04:57.529 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2381Size of Array = 10000
+23:04:57.573 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.573 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2381
+23:04:57.573 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2381is prime but doesn't exist in Fibonacci Series.
+23:04:57.573 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2382Size of Array = 10000
+23:04:57.621 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.621 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2382
+23:04:57.621 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2382is not prime but doesn't exist in Fibonacci Series.
+23:04:57.621 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2383Size of Array = 10000
+23:04:57.665 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.665 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2383
+23:04:57.665 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2383is prime but doesn't exist in Fibonacci Series.
+23:04:57.665 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2384Size of Array = 10000
+23:04:57.707 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.707 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2384
+23:04:57.708 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2384is not prime but doesn't exist in Fibonacci Series.
+23:04:57.708 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2385Size of Array = 10000
+23:04:57.755 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.755 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2385
+23:04:57.755 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2385is not prime but doesn't exist in Fibonacci Series.
+23:04:57.756 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2386Size of Array = 10000
+23:04:57.797 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.797 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2386
+23:04:57.797 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2386is not prime but doesn't exist in Fibonacci Series.
+23:04:57.797 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2387Size of Array = 10000
+23:04:57.845 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.845 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2387
+23:04:57.845 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2387is not prime but doesn't exist in Fibonacci Series.
+23:04:57.845 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2388Size of Array = 10000
+23:04:57.889 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.889 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2388
+23:04:57.889 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2388is not prime but doesn't exist in Fibonacci Series.
+23:04:57.889 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2389Size of Array = 10000
+23:04:57.943 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.943 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2389
+23:04:57.943 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2389is prime but doesn't exist in Fibonacci Series.
+23:04:57.943 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2390Size of Array = 10000
+23:04:57.985 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:57.985 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2390
+23:04:57.985 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2390is not prime but doesn't exist in Fibonacci Series.
+23:04:57.985 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2391Size of Array = 10000
+23:04:58.028 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.029 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2391
+23:04:58.029 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2391is not prime but doesn't exist in Fibonacci Series.
+23:04:58.029 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2392Size of Array = 10000
+23:04:58.069 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.069 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2392
+23:04:58.069 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2392is not prime but doesn't exist in Fibonacci Series.
+23:04:58.069 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2393Size of Array = 10000
+23:04:58.106 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.106 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2393
+23:04:58.106 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2393is prime but doesn't exist in Fibonacci Series.
+23:04:58.106 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2394Size of Array = 10000
+23:04:58.164 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.164 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2394
+23:04:58.164 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2394is not prime but doesn't exist in Fibonacci Series.
+23:04:58.164 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2395Size of Array = 10000
+23:04:58.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2395
+23:04:58.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2395is not prime but doesn't exist in Fibonacci Series.
+23:04:58.207 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2396Size of Array = 10000
+23:04:58.251 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.251 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2396
+23:04:58.251 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2396is not prime but doesn't exist in Fibonacci Series.
+23:04:58.251 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2397Size of Array = 10000
+23:04:58.294 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.294 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2397
+23:04:58.295 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2397is not prime but doesn't exist in Fibonacci Series.
+23:04:58.295 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2398Size of Array = 10000
+23:04:58.342 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.342 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2398
+23:04:58.342 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2398is not prime but doesn't exist in Fibonacci Series.
+23:04:58.342 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2399Size of Array = 10000
+23:04:58.383 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.383 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2399
+23:04:58.383 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2399is prime but doesn't exist in Fibonacci Series.
+23:04:58.383 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2400Size of Array = 10000
+23:04:58.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2400
+23:04:58.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2400is not prime but doesn't exist in Fibonacci Series.
+23:04:58.425 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2401Size of Array = 10000
+23:04:58.468 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.469 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2401
+23:04:58.469 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2401is not prime but doesn't exist in Fibonacci Series.
+23:04:58.469 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2402Size of Array = 10000
+23:04:58.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2402
+23:04:58.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2402is not prime but doesn't exist in Fibonacci Series.
+23:04:58.511 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2403Size of Array = 10000
+23:04:58.560 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.560 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2403
+23:04:58.560 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2403is not prime but doesn't exist in Fibonacci Series.
+23:04:58.560 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2404Size of Array = 10000
+23:04:58.603 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.603 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2404
+23:04:58.603 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2404is not prime but doesn't exist in Fibonacci Series.
+23:04:58.603 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2405Size of Array = 10000
+23:04:58.650 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.650 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2405
+23:04:58.650 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2405is not prime but doesn't exist in Fibonacci Series.
+23:04:58.650 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2406Size of Array = 10000
+23:04:58.694 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.694 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2406
+23:04:58.694 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2406is not prime but doesn't exist in Fibonacci Series.
+23:04:58.694 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2407Size of Array = 10000
+23:04:58.737 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.737 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2407
+23:04:58.738 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2407is not prime but doesn't exist in Fibonacci Series.
+23:04:58.738 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2408Size of Array = 10000
+23:04:58.783 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.783 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2408
+23:04:58.783 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2408is not prime but doesn't exist in Fibonacci Series.
+23:04:58.783 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2409Size of Array = 10000
+23:04:58.820 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.820 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2409
+23:04:58.821 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2409is not prime but doesn't exist in Fibonacci Series.
+23:04:58.821 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2410Size of Array = 10000
+23:04:58.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2410
+23:04:58.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2410is not prime but doesn't exist in Fibonacci Series.
+23:04:58.870 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2411Size of Array = 10000
+23:04:58.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2411
+23:04:58.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2411is prime but doesn't exist in Fibonacci Series.
+23:04:58.911 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2412Size of Array = 10000
+23:04:58.969 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:58.969 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2412
+23:04:58.969 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2412is not prime but doesn't exist in Fibonacci Series.
+23:04:58.969 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2413Size of Array = 10000
+23:04:59.062 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.062 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2413
+23:04:59.062 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2413is not prime but doesn't exist in Fibonacci Series.
+23:04:59.062 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2414Size of Array = 10000
+23:04:59.107 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.107 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2414
+23:04:59.107 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2414is not prime but doesn't exist in Fibonacci Series.
+23:04:59.107 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2415Size of Array = 10000
+23:04:59.151 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.151 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2415
+23:04:59.151 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2415is not prime but doesn't exist in Fibonacci Series.
+23:04:59.151 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2416Size of Array = 10000
+23:04:59.197 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.197 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2416
+23:04:59.197 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2416is not prime but doesn't exist in Fibonacci Series.
+23:04:59.197 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2417Size of Array = 10000
+23:04:59.248 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.248 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2417
+23:04:59.248 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2417is prime but doesn't exist in Fibonacci Series.
+23:04:59.248 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2418Size of Array = 10000
+23:04:59.288 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.288 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2418
+23:04:59.288 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2418is not prime but doesn't exist in Fibonacci Series.
+23:04:59.289 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2419Size of Array = 10000
+23:04:59.337 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.337 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2419
+23:04:59.337 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2419is not prime but doesn't exist in Fibonacci Series.
+23:04:59.337 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2420Size of Array = 10000
+23:04:59.377 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.377 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2420
+23:04:59.377 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2420is not prime but doesn't exist in Fibonacci Series.
+23:04:59.377 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2421Size of Array = 10000
+23:04:59.420 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.420 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2421
+23:04:59.420 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2421is not prime but doesn't exist in Fibonacci Series.
+23:04:59.420 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2422Size of Array = 10000
+23:04:59.466 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.466 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2422
+23:04:59.466 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2422is not prime but doesn't exist in Fibonacci Series.
+23:04:59.466 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2423Size of Array = 10000
+23:04:59.512 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.512 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2423
+23:04:59.512 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2423is prime but doesn't exist in Fibonacci Series.
+23:04:59.512 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2424Size of Array = 10000
+23:04:59.559 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.559 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2424
+23:04:59.559 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2424is not prime but doesn't exist in Fibonacci Series.
+23:04:59.559 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2425Size of Array = 10000
+23:04:59.601 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.601 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2425
+23:04:59.601 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2425is not prime but doesn't exist in Fibonacci Series.
+23:04:59.601 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2426Size of Array = 10000
+23:04:59.642 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.642 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2426
+23:04:59.642 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2426is not prime but doesn't exist in Fibonacci Series.
+23:04:59.642 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2427Size of Array = 10000
+23:04:59.686 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.686 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2427
+23:04:59.686 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2427is not prime but doesn't exist in Fibonacci Series.
+23:04:59.686 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2428Size of Array = 10000
+23:04:59.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2428
+23:04:59.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2428is not prime but doesn't exist in Fibonacci Series.
+23:04:59.732 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2429Size of Array = 10000
+23:04:59.776 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.776 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2429
+23:04:59.776 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2429is not prime but doesn't exist in Fibonacci Series.
+23:04:59.776 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2430Size of Array = 10000
+23:04:59.817 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.817 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2430
+23:04:59.817 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2430is not prime but doesn't exist in Fibonacci Series.
+23:04:59.817 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2431Size of Array = 10000
+23:04:59.857 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.857 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2431
+23:04:59.857 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2431is not prime but doesn't exist in Fibonacci Series.
+23:04:59.857 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2432Size of Array = 10000
+23:04:59.900 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.900 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2432
+23:04:59.900 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2432is not prime but doesn't exist in Fibonacci Series.
+23:04:59.900 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2433Size of Array = 10000
+23:04:59.941 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.941 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2433
+23:04:59.941 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2433is not prime but doesn't exist in Fibonacci Series.
+23:04:59.941 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2434Size of Array = 10000
+23:04:59.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:04:59.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2434
+23:04:59.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2434is not prime but doesn't exist in Fibonacci Series.
+23:04:59.987 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2435Size of Array = 10000
+23:05:00.032 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.032 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2435
+23:05:00.032 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2435is not prime but doesn't exist in Fibonacci Series.
+23:05:00.032 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2436Size of Array = 10000
+23:05:00.082 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.082 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2436
+23:05:00.082 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2436is not prime but doesn't exist in Fibonacci Series.
+23:05:00.082 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2437Size of Array = 10000
+23:05:00.123 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.123 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2437
+23:05:00.123 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2437is prime but doesn't exist in Fibonacci Series.
+23:05:00.123 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2438Size of Array = 10000
+23:05:00.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2438
+23:05:00.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2438is not prime but doesn't exist in Fibonacci Series.
+23:05:00.167 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2439Size of Array = 10000
+23:05:00.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2439
+23:05:00.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2439is not prime but doesn't exist in Fibonacci Series.
+23:05:00.211 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2440Size of Array = 10000
+23:05:00.254 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.254 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2440
+23:05:00.254 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2440is not prime but doesn't exist in Fibonacci Series.
+23:05:00.254 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2441Size of Array = 10000
+23:05:00.294 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.294 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2441
+23:05:00.294 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2441is prime but doesn't exist in Fibonacci Series.
+23:05:00.294 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2442Size of Array = 10000
+23:05:00.346 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.346 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2442
+23:05:00.346 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2442is not prime but doesn't exist in Fibonacci Series.
+23:05:00.346 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2443Size of Array = 10000
+23:05:00.393 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.393 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2443
+23:05:00.393 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2443is not prime but doesn't exist in Fibonacci Series.
+23:05:00.393 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2444Size of Array = 10000
+23:05:00.432 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.432 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2444
+23:05:00.432 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2444is not prime but doesn't exist in Fibonacci Series.
+23:05:00.432 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2445Size of Array = 10000
+23:05:00.473 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.473 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2445
+23:05:00.473 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2445is not prime but doesn't exist in Fibonacci Series.
+23:05:00.473 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2446Size of Array = 10000
+23:05:00.514 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.514 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2446
+23:05:00.514 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2446is not prime but doesn't exist in Fibonacci Series.
+23:05:00.514 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2447Size of Array = 10000
+23:05:00.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED true value = 2447
+23:05:00.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2447is prime but doesn't exist in Fibonacci Series.
+23:05:00.556 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2448Size of Array = 10000
+23:05:00.604 [main] INFO  com.Log4jtest.com.Log4jTest.main - createFibonacciSeries Created Series. 
+23:05:00.604 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrime RETURNED false value = 2448
+23:05:00.604 [main] INFO  com.Log4jtest.com.Log4jTest.main - checkIsPrimeFibonacci RETURNED 2448is not prime but doesn't exist in Fibonacci Series.
+23:05:00.604 [main] INFO  com.Log4jtest.com.Log4jTest.main - Checked number = 2449Size of Array = 10000
